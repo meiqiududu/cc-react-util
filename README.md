@@ -13,5 +13,4 @@ Start the dev server,
 ```bash
 $ yarn start
 ```
-"# ccyy-rc-util" 
 "# cc-react-util" 
