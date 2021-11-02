@@ -1,16 +1,18 @@
-# umi project
+# ccyy-rc-util
 
-## Getting Started
+Common Utils For React Component.
 
-Install dependencies,
+## Install
 
-```bash
-$ yarn
+npm install ccyy-rc-util --save-dev
+
+## API
+
+### isMobile
+
+> (): boolean
+Determine if it is a mobile device
+
+```jsx
+import isMobile from 'rc-util/lib/isMobile';
 ```
-
-Start the dev server,
-
-```bash
-$ yarn start
-```
-"# cc-react-util" 
